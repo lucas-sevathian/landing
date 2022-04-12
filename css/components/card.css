@@ -1,0 +1,18 @@
+.card {
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.card h3 {
+  font-size: 25px;
+  color: white;
+}
+
+.card a {
+  font-size: 25px;
+  color: white;
+}

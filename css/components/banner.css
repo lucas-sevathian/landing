@@ -1,0 +1,20 @@
+.banner {
+background-image:  linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 35%), url(../../images/bob.png);
+color: white;
+padding: 50px 50px;
+background-size: cover;
+background-position: center;
+margin-top: 20px;
+margin-bottom: 125px;
+display: grid;
+height: 40vw;
+max-height: 100vw;
+max-width: 100vw;
+min-height: 60vh;
+}
+
+.banner h1 {
+  font-weight: lighter;
+  font-size: 40px;
+  color:  white;
+}
